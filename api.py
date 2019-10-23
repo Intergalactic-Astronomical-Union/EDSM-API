@@ -1,3 +1,9 @@
+###############
+#
+# api.py is currently written for Python 2.x - a future update will port to Python 3.x
+#
+##########
+
 from __future__ import print_function
 import json
 from urllib2 import urlopen

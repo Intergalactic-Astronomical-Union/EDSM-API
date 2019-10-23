@@ -6,6 +6,7 @@ import time
 import sys
 
 # simple text file with system names, one per line
+# Important note: The first line of the input file must contain a dash (see included file)
 filepath = 'input-systems.txt'
 
 # this provides an api link, and completes the api call with system names from the text file above

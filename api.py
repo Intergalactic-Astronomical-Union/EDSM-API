@@ -16,12 +16,12 @@ import sys
 filepath = 'input-systems.txt'
 
 # this provides an api link, and completes the api call with system names from the text file above
-baseurl = 'https://www.edsm.net/api-v1/system?showId=0&showCoordinates=0&showInformation=0&showPrimaryStar=1&systemName='
+baseurl = 'https://www.edsm.net/api-v1/system?showId=1&showCoordinates=1&showInformation=1&showPrimaryStar=1&systemName='
 
 f = open('output-systems.csv', 'w')
 
 with open(filepath) as fp:
-    count = 1
+    count = 1 
     line = fp.readline()
 
 
@@ -36,15 +36,16 @@ with open(filepath) as fp:
 # get api call response and make is json
             response = requests.get(url=url)
             data = response.json()
+            #print(data)
 
 # you could change these to any fields of interest in the EDSM API data.
-#I was interested in Stellar Classes of primary stars.
             system_name = (data['name'])
+            id64 = str(data['id64'])
             type = (data['primaryStar']['type'])
             spectral_class = type[0]
 
 # Write out to standard output. Could be less lazy and write out to a .csv file.
-            output = str(count) + ',' + system_name + ',' + spectral_class
+            output = str(count) + ',' + system_name + ',' + id64
 
             print (output)
             print (output, file=f)
@@ -54,3 +55,7 @@ with open(filepath) as fp:
             time.sleep(4)
         except:
             pass
+            # print "error" so we know a system couldn't be looked up. 
+            print ("error");
+            # make sure the line number is incremented so we match source .csv file line numbers
+            count += 1

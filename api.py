@@ -14,14 +14,14 @@ import sys
 # simple text file with system names, one per line
 # Important note: The first line of the input file must contain a dash (see included file)
 filepath = 'input-systems.txt'
-
+system_name = 'error'
 # this provides an api link, and completes the api call with system names from the text file above
 baseurl = 'https://www.edsm.net/api-v1/system?showId=1&showCoordinates=1&showInformation=1&showPrimaryStar=1&systemName='
 
 f = open('output-systems.csv', 'w')
 
 with open(filepath) as fp:
-    count = 1 
+    count = 2 
     line = fp.readline()
 
 
@@ -55,7 +55,9 @@ with open(filepath) as fp:
             time.sleep(4)
         except:
             pass
-            # print "error" so we know a system couldn't be looked up. 
-            print ("error");
+            output = str(count) + ',' + 'error' + ',' + '0';
+            print (output)
+            print (output, file=f)
+            #print ("error");
             # make sure the line number is incremented so we match source .csv file line numbers
             count += 1

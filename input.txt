@@ -1,0 +1,520 @@
+-
+2MASS J02333009+6128540
+2MASS J02344892+6124230
+2MASS J02344892+6124230
+2MASS J02350854+6109233
+2MASS J02351897+6131236
+2MASS J02351897+6131236
+2MASS J02351897+6131236
+2MASS J03290575+3116396
+2MASS J03291188+3121271
+2MASS J05233662+3329050
+2MASS J08452630+1947040
+2MASS J21014358+6809361
+Agnairt DW-V e2-3059
+Agnairt HD-Q d6-5082
+Agnairt UA-U d4-547
+Agnairt VN-K c11-2715
+Aucopp OT-D a39-3
+Aucopp XM-X b46-1
+Aucoths XG-K d9-6
+BD+01 3979
+BD+18 718
+BD+18 721
+BD+22 3878
+BD+30 623
+BD+41 1865
+BD+41 4004
+BD+41 4773
+BD+46 1067
+BD+50 2869
+BD+50 886
+BD+55 191
+BD+55 191
+BD+58 392
+BD+61 464
+BD+65 210
+BD-11 5511
+Blaa Eork FZ-S b23-0
+Blae Dryua SV-C c29-0
+Bleia1 DL-Y f26
+Bleia2 AA-A h55
+Bleia3 ZE-A f4
+Bleia4 AA-A h35
+Bleia5 AA-A h6
+Blia Theia BA-A d41
+Blia Theia RA-A b55-0
+Blia Theia TT-A d2
+Blia Theia VO-A d29
+Blie Aihm LD-H c24-0
+Blo Thiae KI-B d13-0
+Bloo Eork OT-Z d2
+Blooe Eork PY-Z d1
+Blu Euq AZ-Q c18-24
+Blu Euq AZ-Q c18-24
+Blu Euq FN-W c1-25
+Blu Euq FR-N d6-213
+Blu Euq HW-C c26-22
+Blu Euq PI-K b8-3
+Blu Euq UY-C b40-7
+Blu Thua WB-S b31-7
+Boerth MZ-F c11-87
+Bovomit WY-R d4-16
+Bya Ail EL-X e1-17
+Bya Ail IF-Z d208
+Byeia Eur SP-G d10-188
+Byeia Freau HL-Y d16
+Byoo Aiq QD-J d9-1
+Byooe Eup BE-T d3-5
+Byoomoea DX-G c25-6
+Byua Chrea JH-M d7-18
+CSI+46-20087
+Chaneae OS-X b19-0
+Chaneae OS-X b19-0
+Chaneae TE-X d2-10
+Chraufoo JN-K d8-41
+Chraufoo MO-H c10-9
+Chraufoo WO-A d6
+Col 121 Sector LM-V d2-2
+Col 132 Sector NY-Q d5-11
+Col 132 Sector NY-Q d5-8
+Col 132 Sector PT-Q d5-16
+Col 132 Sector RE-P d6-84
+Col 132 Sector RS-U b18-0
+Col 132 Sector TY-O b36-8
+Col 132 Sector TY-O b36-8
+Col 135 Sector CG-X d1-15
+Col 359 Sector ZX-Z b14-4
+Col 70 Sector PY-Q d5-16
+Col 89 Sector NC-N c22-0
+Col 89 Sector NC-N c22-0
+Col 97 Sector AA-Y c1-0
+Csi+09-19289
+Csi+09-19291
+Csi+19-20105
+Csi+19-20201
+Csi+29-19529
+Csi+40-16027
+Csi+44-21305
+Csi+46-20087
+Csi+47-21046
+Csi+50-22218
+Csi+61-22385
+Dehoae LR-U d3-1
+Drojeae BS-P b24-1
+Drojeae BS-P b24-1
+Drojo NX-U e2-0
+Dryafiae XU-E c28-7
+Dryman WE-M b9-6
+Dryoi Flyue YS-K b53-1
+Dryoi Pri MY-G d11-10293
+Dryooe Blou RY-S e3-1
+Dryooe Prou OP-B c15-101
+Dryu Ail EH-M d7-5
+Dumboe JM-W e1-1406
+EES2009 Persei J03286006+3122826
+Eafots GQ-O d6-9
+Eeshovvy IK-C d14-1003
+Engoks NE-X d2-0
+Eock Bluae BK-A e0
+Eock Prau BY-Z b14-0
+Eord Ploe HJ-S b4-9
+Eord Ploe JR-N e6-64
+Eorld Pri GL-F c14-595
+Eorld Pri GL-F c14-595
+Eorld Pri GL-F c14-595
+Eowyg Fraae LT-D b2-1
+Flya Hypoea NG-O c9-0
+Flyae Drye EB-B c2-0
+Flyae Drye GB-B c2-0
+Flyae Drye GS-X c3-0
+Flyae Drye HD-Z d1-1
+Flyae Drye MN-A d1-2
+Flyae Drye TD-B e0
+Flyae Drye WY-V b7-0
+Flyae Drye YJ-Z e0
+Flyeia Dryiae JA-E b4-0
+Flyeia Dryiae JG-A c3-1
+Flyeia Dryiae JW-C d0
+Flyeia Dryoae FK-C d14-69
+Flyiedge YP-N d7-18
+Flyiedgou CW-C d48
+Flyiedgou CW-C d53
+Flyooe Eohn KR-C b4-1
+Flyooe Eohn KR-C b4-1
+Flyooe Eohn KR-C b4-1
+Flyooe Eohn KR-C b4-1
+Flyua Dryoae RK-U b50-3
+Fojeau MY-Z d13-14
+Froadik UJ-P d6-13
+Froaln LI-B d13-2540
+Gamma Velorum
+Gludgoea YJ-R d4-148
+Gludgooe FV-X d1-14
+Gludgooe FV-X d1-14
+Gludgooe XO-M b35-1
+Graea Hypue BW-U d3-114
+Graea Hypue WF-W d2-103
+Greae Hypua TT-I c12-0
+Greae Phio BW-V b47-8
+Greae Phio DT-G d11-332
+Greae Phio ET-G d11-5305
+Greae Phio ET-G d11-5305
+Greae Phio QE-Q e5-5596
+Greae Phio ZM-I d10-536
+Greae Phio ZM-I d10-536
+Greae Phio ZM-I d10-536
+Greae Phio ZM-I d10-536
+Greae Phio ZM-I d10-536
+Greae Phrooe BN-I d10-80
+Grie Eork KN-O c8-0
+Grie Eork WU-W d2-1
+Groeb JW-D c12-2
+Gru Eop PC-V e2-0
+Gru Eop PC-V e2-0
+HD 68324
+HD 91919
+HEN 2-333
+HIP 51678
+Horsehead Dark Region IR-V c2-0
+Horsehead Dark Region LM-V c2-3
+Hypaa Flyuae EX-S d4-0
+Hypiae Aescs IF-R d4-3
+Hypio Pri EK-C d14-2903
+Hypio Pri EK-C d14-2903
+Hypio Pri WX-F d12-458
+Hypoae Aescs AA-A h0
+Hypoae Ain IX-L d7-83
+Hyponia AA-A g2
+Hypuae Ain VJ-H d10-9
+IRAS 19160+0626
+IRAS 19581+0135
+IRAS 21124+4604
+Joihaea GX-I d10-1
+Juenae OX-U e2-8852 B
+Juenae OX-U e2-8852 B
+Juenae OX-U e2-8852 B
+Kyloarph ZF-N d7-3606
+Leesti
+Lysoosms KU-L b36-3
+Lysoosms TM-W b56-12
+M41 Sector XJ-Z d5
+MM Velorum
+Meamoea WS-V b33-3
+Meamoea WS-V b33-3
+Meamoea WS-V b33-3
+Myoidu MT-U c2-6
+Myoidu MT-U c2-6
+NGC 2264 Sector AA-Q b21-0
+NGC 2286 Sector GS-S d4-30
+NGC 2286 Sector WD-T d3-1
+NGC 3603 Sector GW-W d1-44
+NGC 3603 Sector MX-U d2-16
+NGC 4463 Sector FC-K d9-35
+NGC 4463 Sector FC-K d9-35
+NGC 6664 Sector JD-A b14-4
+Nyeajaae KZ-C b5-6 A
+Nyeajaae KZ-C b5-6 A
+Nyeakua IZ-Z c13-0
+Omega Sector GC-U b3-4 ABC
+Oob Aoc CA-H d10-0
+Oob Aoc IQ-N c20-0
+Oob Aoc LT-W c16-0
+Oob Aoc LT-W c16-0
+Oob Aoc RZ-U c17-0
+Oob Aoc US-J c22-2
+Oob Aoc UX-S c17-0
+Oochont BN-H d11-4
+Oochont IV-P c21-0
+Oochont LW-M c23-1
+Oochont RA-M d8-7
+Oochoss DL-F c27-1
+Oochoss EM-D c28-0
+Oochoss IN-H b56-0
+Oochoss MV-B d14-10
+Oochoss TI-H b56-0
+Ootosky BW-L d8-1
+Outott IC-D d12-16
+Outott IH-D d12-4
+PQ Monocerotis
+PSR J0633+1746
+PSR J0751+1807
+PSR J1300+1240
+PSR J1300+1240
+PSR J1901+0716
+PSR J1959+2048
+Phae Aeb CL-F d11-3
+Pheia Ain CD-N b7-4
+Phraa Pra HH-U e3-1354 A 1 A Ring
+Phraa Pra HH-U e3-1354 A 1 A Ring
+Phraa Pra HH-U e3-1354 A 1 A Ring
+Phraa Pra HH-U e3-1354 A
+Phraa Pra HH-U e3-1354 A
+Phroi Phio NU-V d3-54
+Phroi Phoea ME-X d2-23
+Phroi Pri LP-V c16-1427
+Phrua Pruae GP-D d13-736
+Phua Fraae AA-A h0
+Plaa Aec PJ-Q e5-1
+Plae Aob ZK-P e5-24
+Pleia Eup PV-B c27-4
+Pleia Fraae LO-Z d13-87
+Pleiades Sector IR-W d1-55
+Plio Eurl DX-T b32-1
+Plio Eurl KB-P c8-0
+Plua Thoi PA-Y c14-1
+Praea Euq BR-Y c22
+Praei Thoe CP-A c0
+Praei3 MJ-D b43-8
+Pro Eurl JH-B c27-5
+Pro Eurl JH-B c27-5
+Pro Eurl KQ-Y c21
+Pro Eurl KQ-Y c21
+Prooe Hypue QN-K b41-4
+Prua Dryoae LI-A d1-30
+Prua Dryoae TI-P c7-0
+Prudguia GG-F c14-0
+Qeajaea VM-W d1-92
+Ridgeia WG-I b24-0
+Schafuia LY-I d9-14
+Schearea FM-U c19-16
+Schearea FM-U c19-16
+Scheau Phio JC-U e3-7
+Scheau Phoea QO-O d7-31
+Scheau Prao MA-L d9-4486
+Shrogaae BK-A e353
+Shrongio WT-A c202
+Sidgoir AA-A e3
+Sigma Canis Majoris
+Skaude ON-T e3-80
+Skaude ON-T e3-80
+Skaude ON-T e3-80
+Skaude ON-T e3-80
+Skauduae AA-Q b38-5
+Skauduae MQ-H b29-6
+Skauduae UC-E b31-11
+Spaidau QD-Z c27-0
+Striechooe MI-S e4-2
+Stroifa LR-Z c27-0
+Stuelou AV-E c28-82
+Stuelou AV-E c28-82
+Stuelou AV-E c28-82
+Stuelou AV-E c28-82
+Stuemeou FP-J c24-280
+Stuemeou FP-J c24-280
+Swoilz RD-Z d1-108
+Swoilz RD-Z d1-108
+Synuefai FX-R d5-32
+Synuefe OA-E b45-4
+Synuefe RC-N b25-0
+Synuefe UO-B b45-0
+Synuefe UO-B b45-0
+Synuefe UO-B b45-0
+Synuefe UO-B b45-0
+Synuefe UO-B b45-0
+Synuefe UO-B b45-0
+Synuefe UO-B b45-0
+Synuefe UO-B b45-0
+Synuefe UO-B b45-0
+Synuefe UO-B b45-0
+Synuefue MH-C d11
+Synuefue UN-A d1-15
+Synuefue WX-A b18-0
+Synuefue XI-J b0
+Syralia LR-N d6-127
+Thailae MR-N c9-16
+Thailae YG-H b2-0
+Thailoea BP-A c29-6
+Thailuae UK-F d11-6
+Thraikue AI-I c23-2
+Throofa IH-D d12-0
+Throofai HE-U c5-3
+Tiefeia VJ-X c2-0
+Ushott OO-Q d5-0
+Vegnue ZQ-C d13-285
+Wepue TT-L c10-892
+Witch Head Sector DL-Y d17
+Witch Head Sector DL-Y d17
+Witch Head Sector DL-Y d17
+Witch Head Sector DL-Y d26
+Witch Head Sector DL-Y d7
+Witch Head Sector DL-Y d7
+Witch Head Sector EB-X c1-7
+Witch Head Sector EB-X c1-7
+Witch Head Sector FB-X c1-11
+Witch Head Sector FB-X c1-11
+Witch Head Sector FB-X c1-11
+Witch Head Sector FB-X c1-5
+Witch Head Sector FB-X c1-7
+Witch Head Sector GW-W c1-10
+Witch Head Sector GW-W c1-4
+Witch Head Sector GW-W c1-4
+Witch Head Sector GW-W c1-4
+Witch Head Sector GW-W c1-4
+Witch Head Sector HW-W c1-7
+Witch Head Sector HW-W c1-7
+Witch Head Sector HW-W c1-7
+Witch Head Sector HW-W c1-9
+Witch Head Sector HW-W c1-9
+Witch Head Sector HW-W c1-9
+Witch Head Sector HW-W c1-9
+Witch Head Sector HW-W c1-9
+Witch Head Sector KC-U b3-0
+Witch Head Sector KC-U b3-0
+Witch Head Sector LC-V c2-10
+Witch Head Sector LC-V c2-10
+Witch Head Sector LC-V c2-10
+Witch Head Sector LC-V c2-10
+Witch Head Sector LC-V c2-9
+Witch Head Sector LC-V c2-9
+Witch Head Sector OI-S b4-0
+Wregoe DM-L c21-26
+Wregoe KM-L c8-2
+Wregoe ON-R c18-8
+Wregoe UO-Q b21-0
+Wregoe YS-T b45-0
+Xeehuia XQ-T d4-5
+Yaimae AS-O c8-0
+Yaimae VV-T d4-4
+2 Ursae Minoris
+2MASS J03291977+3124572
+Antares
+B352 Sector FW-W d1-35
+B352 Sector GM-V c2-12
+Blae Drye WO-Z c13-0
+Blae Drye WO-Z c13-0
+Bleia Dryiae BS-H d11-203
+Bleia Dryiae YM-D c15-36
+Bleia Dryiae YM-D c15-36
+Blu Thua DX-K d8-2
+Blu Thua VJ-I d9-84
+Blu Thua WW-Y b41-1
+Blu Thua WW-Y b41-1
+Blue Phroea BE-E d13-0
+Boerst PA-A d0
+Braireau WJ-H d10-6572
+Byeia Eurk RU-R b45-16
+Byeia Eurk RU-R b45-16
+CCDM J18042-2415AB
+California Sector NX-U c2-0
+Col 107 Sector GS-J d9-5
+Col 132 Sector AO-E c13-20
+Col 132 Sector MA-B c15-9
+Col 132 Sector MA-B c15-9
+Col 173 Sector GS-J b25-4
+Col 285 Sector WP-E c12-16
+Col 285 Sector XT-Z c2
+Col 69 Sector BI-H c11-2
+Droju QT-Y d1-31
+Dryaea Flee GC-D d12-2904
+Dryaea Flee GC-D d12-3089
+Dryaea Flee PP-E c25-828
+Dryi Aewsy BW-C c26-1
+Dryoea Blue AA-A h43
+Dryoea Blue AS-I d10-557
+Dryoea Blue JN-A d1-504
+Dryoea Blue KN-A d1-148
+Dryoea Blue MN-R d5-382
+Eorm Aim PI-B c13-1
+Fine Ring Sector TJ-Q b5-0
+Floaln SP-O e6-14
+Flyiedgiae OH-O a33-3
+Flyiedgiae OH-O a33-3
+Flyua Eork YE-J b28-0
+Gludgae UF-N d7-2
+Goibniugo
+Gongeia GU-S b51-0
+Graea Blou CA-H d10-5
+HD 155889
+HD 165782
+HD 315021
+HD 36863
+HIP 101801
+HIP 18189
+HIP 65021
+HIP 67302
+HIP 95476
+HR 1172
+Hyades Sector DB-X c1-19
+Hypo Aeb CF-R d4-7
+Hypoae Ain II-K d8-13
+Hypoe Hypue BY-B c16-0
+Hypoe Hypue YP-F b31-0
+IC 2944 Sector DH-N b10-1
+Iorant NQ-C c26-0
+Jellyfish Sector DL-Y d22
+Jellyfish Sector DL-Y d30
+Jellyfish Sector DL-Y d36
+Jellyfish Sector EL-Y d6
+Kashis
+LTT 1349
+Loko Oh
+Lysoosms MI-K d8-12
+Lysoovsky KT-I c9-19
+Lysoovsky KT-I c9-19
+Musca Dark Region IR-W d1-93
+NGC 1333 Sector ZF-N b7-0
+NGC 1333 Sector ZF-N b7-0
+NGC 1514 Sector BB-O b6-0
+NGC 1514 Sector WU-P b5-0
+NGC 2451A Sector WE-Q b5-6
+NGC 4463 Sector EZ-B c15-0
+NGC 6445 Sector PD-S b4-1
+NGC 6445 Sector PD-S b4-1
+North America Sector AR-L b8-3
+North America Sector IM-V c2-8
+North America Sector KS-S b4-3
+North America Sector NN-T c3-21
+Omega Sector DL-Y d127
+Omega Sector DL-Y d183
+Omega Sector KC-V c2-59
+Omega Sector WA-N b7-11
+Oochoxt LP-M d8-11
+Outords QL-J d10-5
+Pencil Sector FL-P b5-3
+Pencil Sector VJ-R b4-7
+Pipe (stem) Sector UZ-O b6-4
+Pleiades Sector GW-W c1-6
+Pleiades Sector LN-S b4-3
+Ploadaea GH-K d9-1
+Plooe Troea EW-E d11-3
+Praea Euq CH-B b14-3
+Praea Euq EL-P d5-117
+Praea Euq GB-F c11-29
+Praea Euq LQ-L b22-1
+Praea Euq XV-L c21-6
+Praea Euq ZE-Z d12
+Preae Aim QG-Z c28-3
+Preae Aim YR-C b42-19
+Pro Eurl DR-D d12-3
+Prooe Bli GG-Y d3
+Prooe Flyuae YD-S d4-65
+Pru Euq JS-E b53-2
+Prua Dryou IY-Q c21-12
+Rosette Sector DG-X c1-31
+Rosette Sector FB-X c1-9
+Rosette Sector JW-W c1-16
+Rosette Sector MN-S b4-5
+Schadgeia CS-N c6-1
+Skaudai AM-B d14-138
+Skaudai AM-B d14-138
+Skaudai AM-B d14-60
+Skaudai AM-B d14-60
+Skaudai CH-B d14-34
+Skaudai CH-B d14-38
+Spiral Planetary Sector AA-Z b2
+Swoilz EW-T d4-62
+Synuefai UW-H b2-0
+Synuefe KL-C b46-2
+Synuefe LW-L c24-40
+Systimbu GD-A d14-4382
+Systimbu NS-U f2-29
+Trifid Sector IR-W d1-241
+Vegnoae BA-A d1130
+Vulpecula Dark Region RY-R b4-5
+Wredgo MO-X d2-0
+Wredguia DO-H b24-0
+Wredguia XE-G c24-0
+Wregoe ME-G c24-5
+Wregoe PV-G c10-2
+Zejoo LE-E d13-61

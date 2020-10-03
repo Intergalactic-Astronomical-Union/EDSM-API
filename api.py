@@ -13,12 +13,12 @@ import sys
 
 # simple text file with system names, one per line
 # Important note: The first line of the input file must contain a dash (see included file)
-filepath = 'input-systems.txt'
+filepath = 'input.txt'
 system_name = 'error'
 # this provides an api link, and completes the api call with system names from the text file above
 baseurl = 'https://www.edsm.net/api-v1/system?showId=1&showCoordinates=1&showInformation=1&showPrimaryStar=1&systemName='
 
-f = open('output-systems.csv', 'w')
+f = open('output.csv', 'w')
 
 with open(filepath) as fp:
     count = 2 
@@ -33,7 +33,7 @@ with open(filepath) as fp:
             url = baseurl + stripline
             #print(format(line.strip()))
 
-# get api call response and make is json
+# get api call response and make it json
             response = requests.get(url=url)
             data = response.json()
             #print(data)
@@ -45,7 +45,10 @@ with open(filepath) as fp:
             spectral_class = type[0]
 
 # Write out to standard output. Could be less lazy and write out to a .csv file.
+            # output write ID64 value. 
             output = str(count) + ',' + system_name + ',' + id64
+            # output write stellar class
+            #output = str(count) + ',' + system_name + ',' + type
 
             print (output)
             print (output, file=f)

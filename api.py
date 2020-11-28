@@ -1,15 +1,11 @@
 ###############
 #
-# api.py is currently written for Python 2.x - a future update will port to Python 3.x
+# api.py is updated to work on Python 3.x
 #
 ##########
 
-from __future__ import print_function
-import json
-from urllib2 import urlopen
 import requests
 import time
-import sys
 
 # simple text file with system names, one per line
 # Important note: The first line of the input file must contain a dash (see included file)
@@ -29,9 +25,9 @@ with open(filepath) as fp:
 
         try:
             line = fp.readline()
-            stripline = format(line.strip())
+            print(line)
+            stripline = line.strip()
             url = baseurl + stripline
-            #print(format(line.strip()))
 
 # get api call response and make it json
             response = requests.get(url=url)
@@ -40,13 +36,13 @@ with open(filepath) as fp:
 
 # you could change these to any fields of interest in the EDSM API data.
             system_name = (data['name'])
-            id64 = str(data['id64'])
-            type = (data['primaryStar']['type'])
-            spectral_class = type[0]
+            system_id64 = str(data['id64'])
+            star_type = (data['primaryStar']['type'])
+            spectral_class = star_type[0]
 
 # Write out to standard output. Could be less lazy and write out to a .csv file.
-            # output write ID64 value. 
-            output = str(count) + ',' + system_name + ',' + id64
+            # output write ID64 value.
+            output = str(count) + ',' + system_name + ',' + system_id64
             # output write stellar class
             #output = str(count) + ',' + system_name + ',' + type
 
@@ -57,8 +53,7 @@ with open(filepath) as fp:
 # sleep for 4 seconds between api calls so we don't break EDSM.
             time.sleep(4)
         except:
-            pass
-            output = str(count) + ',' + 'error' + ',' + '0';
+            output = str(count) + ',' + 'error' + ',' + '0'
             print (output)
             print (output, file=f)
             #print ("error");
